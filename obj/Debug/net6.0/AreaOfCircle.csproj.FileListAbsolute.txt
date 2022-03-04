@@ -1,0 +1,15 @@
+C:\Users\zecha\Documents\True Coders\repos\AreaOfCircle\bin\Debug\net6.0\AreaOfCircle.exe
+C:\Users\zecha\Documents\True Coders\repos\AreaOfCircle\bin\Debug\net6.0\AreaOfCircle.deps.json
+C:\Users\zecha\Documents\True Coders\repos\AreaOfCircle\bin\Debug\net6.0\AreaOfCircle.runtimeconfig.json
+C:\Users\zecha\Documents\True Coders\repos\AreaOfCircle\bin\Debug\net6.0\AreaOfCircle.dll
+C:\Users\zecha\Documents\True Coders\repos\AreaOfCircle\bin\Debug\net6.0\AreaOfCircle.pdb
+C:\Users\zecha\Documents\True Coders\repos\AreaOfCircle\obj\Debug\net6.0\AreaOfCircle.csproj.AssemblyReference.cache
+C:\Users\zecha\Documents\True Coders\repos\AreaOfCircle\obj\Debug\net6.0\AreaOfCircle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zecha\Documents\True Coders\repos\AreaOfCircle\obj\Debug\net6.0\AreaOfCircle.AssemblyInfoInputs.cache
+C:\Users\zecha\Documents\True Coders\repos\AreaOfCircle\obj\Debug\net6.0\AreaOfCircle.AssemblyInfo.cs
+C:\Users\zecha\Documents\True Coders\repos\AreaOfCircle\obj\Debug\net6.0\AreaOfCircle.csproj.CoreCompileInputs.cache
+C:\Users\zecha\Documents\True Coders\repos\AreaOfCircle\obj\Debug\net6.0\AreaOfCircle.dll
+C:\Users\zecha\Documents\True Coders\repos\AreaOfCircle\obj\Debug\net6.0\refint\AreaOfCircle.dll
+C:\Users\zecha\Documents\True Coders\repos\AreaOfCircle\obj\Debug\net6.0\AreaOfCircle.pdb
+C:\Users\zecha\Documents\True Coders\repos\AreaOfCircle\obj\Debug\net6.0\AreaOfCircle.genruntimeconfig.cache
+C:\Users\zecha\Documents\True Coders\repos\AreaOfCircle\obj\Debug\net6.0\ref\AreaOfCircle.dll
